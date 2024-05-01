@@ -1,0 +1,17 @@
+{
+  "name": "employee-database",
+  "version": "1.0.0",
+  "description": "A command-line application from scratch to manage a company's employee database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.4",
+    "pg": "^8.11.5"
+  }
+}
